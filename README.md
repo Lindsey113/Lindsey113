@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Lindsey, and I am a full-stack web developer (in training!)
+
+I am currently learning how to manipulate JS, CSS & HTML into works of art, and I am so excited to share them with you!
+
+Here's a few fun facts about me:
+
+- I am currently an Ophthalmic Technician in British Columbia, Canada 🍁
+- I am a crazy cat lady (who only has one cat, but planning on changing that as soon as possible)
+- My favorite place in the world is Doolin, Ireland 
+
 <!--
 **Lindsey113/Lindsey113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
