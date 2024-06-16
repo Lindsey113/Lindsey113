@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **lindsey_mccluskey@yahoo.ca**
 
-⚡ Fun facts **
+⚡ Fun facts ⚡
 - I am currently an Ophthalmic Technician in British Columbia, Canada 🍁
 - I am a crazy cat lady (who only has one cat, but planning on changing that as soon as possible)
 - My favorite place in the world is Doolin, Ireland**
