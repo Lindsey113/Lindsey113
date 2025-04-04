@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋 I'm Lindsey</h1>
 <h3 align="center">A passionate full-stack web developer from British Columbia, Canada</h3>
 
-- 📫 How to reach me **lindsey_mccluskey@yahoo.ca**
-
 ⚡ Fun facts ⚡
 - I am currently an Ophthalmic Technician in British Columbia, Canada 🍁
 - I am a crazy cat lady (who only has one cat, but planning on changing that as soon as possible)
 - My favorite place in the world is Doolin, Ireland**
 
 <h3 align="left">Connect with me:</h3>
+📫 How to reach me **lindsey_mccluskey@yahoo.ca
 <p align="left">
 </p>
 
