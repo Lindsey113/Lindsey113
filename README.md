@@ -7,7 +7,7 @@
 - My favorite place in the world is Doolin, Ireland**
 
 <h3 align="left">Connect with me:</h3>
-📫 How to reach me **lindsey_mccluskey@yahoo.ca
+📫 How to reach me: lindsey_mccluskey@yahoo.ca
 <p align="left">
 </p>
 
